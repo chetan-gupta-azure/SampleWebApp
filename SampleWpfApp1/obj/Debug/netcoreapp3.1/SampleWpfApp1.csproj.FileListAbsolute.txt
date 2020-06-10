@@ -1,0 +1,36 @@
+C:\WinAppDriver\SampleApp\SampleWpfApp1\obj\Debug\netcoreapp3.1\SampleWpfApp1.csprojAssemblyReference.cache
+C:\WinAppDriver\SampleApp\SampleWpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\WinAppDriver\SampleApp\SampleWpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\WinAppDriver\SampleApp\SampleWpfApp1\obj\Debug\netcoreapp3.1\SampleWpfApp1_MarkupCompile.cache
+C:\WinAppDriver\SampleApp\SampleWpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\WinAppDriver\SampleApp\SampleWpfApp1\obj\Debug\netcoreapp3.1\SampleWpfApp1.g.resources
+C:\WinAppDriver\SampleApp\SampleWpfApp1\obj\Debug\netcoreapp3.1\SampleWpfApp1.csproj.CoreCompileInputs.cache
+C:\WinAppDriver\SampleApp\SampleWpfApp1\obj\Debug\netcoreapp3.1\SampleWpfApp1.AssemblyInfoInputs.cache
+C:\WinAppDriver\SampleApp\SampleWpfApp1\obj\Debug\netcoreapp3.1\SampleWpfApp1.AssemblyInfo.cs
+C:\WinAppDriver\SampleApp\SampleWpfApp1\bin\Debug\netcoreapp3.1\SampleWpfApp1.exe
+C:\WinAppDriver\SampleApp\SampleWpfApp1\bin\Debug\netcoreapp3.1\SampleWpfApp1.deps.json
+C:\WinAppDriver\SampleApp\SampleWpfApp1\bin\Debug\netcoreapp3.1\SampleWpfApp1.runtimeconfig.json
+C:\WinAppDriver\SampleApp\SampleWpfApp1\bin\Debug\netcoreapp3.1\SampleWpfApp1.runtimeconfig.dev.json
+C:\WinAppDriver\SampleApp\SampleWpfApp1\bin\Debug\netcoreapp3.1\SampleWpfApp1.dll
+C:\WinAppDriver\SampleApp\SampleWpfApp1\bin\Debug\netcoreapp3.1\SampleWpfApp1.pdb
+C:\WinAppDriver\SampleApp\SampleWpfApp1\obj\Debug\netcoreapp3.1\SampleWpfApp1.dll
+C:\WinAppDriver\SampleApp\SampleWpfApp1\obj\Debug\netcoreapp3.1\SampleWpfApp1.pdb
+C:\WinAppDriver\SampleApp\SampleWpfApp1\obj\Debug\netcoreapp3.1\SampleWpfApp1.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\New folder\SampleApp\SampleWpfApp1\bin\Debug\netcoreapp3.1\SampleWpfApp1.exe
+C:\Users\lenovo\Desktop\New folder\SampleApp\SampleWpfApp1\bin\Debug\netcoreapp3.1\SampleWpfApp1.deps.json
+C:\Users\lenovo\Desktop\New folder\SampleApp\SampleWpfApp1\bin\Debug\netcoreapp3.1\SampleWpfApp1.runtimeconfig.json
+C:\Users\lenovo\Desktop\New folder\SampleApp\SampleWpfApp1\bin\Debug\netcoreapp3.1\SampleWpfApp1.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\New folder\SampleApp\SampleWpfApp1\bin\Debug\netcoreapp3.1\SampleWpfApp1.dll
+C:\Users\lenovo\Desktop\New folder\SampleApp\SampleWpfApp1\bin\Debug\netcoreapp3.1\SampleWpfApp1.pdb
+C:\Users\lenovo\Desktop\New folder\SampleApp\SampleWpfApp1\obj\Debug\netcoreapp3.1\SampleWpfApp1.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\New folder\SampleApp\SampleWpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\lenovo\Desktop\New folder\SampleApp\SampleWpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\lenovo\Desktop\New folder\SampleApp\SampleWpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\lenovo\Desktop\New folder\SampleApp\SampleWpfApp1\obj\Debug\netcoreapp3.1\SampleWpfApp1_MarkupCompile.cache
+C:\Users\lenovo\Desktop\New folder\SampleApp\SampleWpfApp1\obj\Debug\netcoreapp3.1\SampleWpfApp1.g.resources
+C:\Users\lenovo\Desktop\New folder\SampleApp\SampleWpfApp1\obj\Debug\netcoreapp3.1\SampleWpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\New folder\SampleApp\SampleWpfApp1\obj\Debug\netcoreapp3.1\SampleWpfApp1.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\New folder\SampleApp\SampleWpfApp1\obj\Debug\netcoreapp3.1\SampleWpfApp1.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\New folder\SampleApp\SampleWpfApp1\obj\Debug\netcoreapp3.1\SampleWpfApp1.dll
+C:\Users\lenovo\Desktop\New folder\SampleApp\SampleWpfApp1\obj\Debug\netcoreapp3.1\SampleWpfApp1.pdb
+C:\Users\lenovo\Desktop\New folder\SampleApp\SampleWpfApp1\obj\Debug\netcoreapp3.1\SampleWpfApp1.genruntimeconfig.cache
